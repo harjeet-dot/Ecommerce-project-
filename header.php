@@ -55,7 +55,7 @@
           products
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Android</a>
+          <a class="dropdown-item" href="product_android.php">Android</a>
           <a class="dropdown-item" href="#">IOS</a>
          
 </li>
