@@ -47,20 +47,24 @@
                 <li class="nav-item active">
                     <a class="nav-link" href="#">On Sale</a>
                 </li>
+               
+
+
+                <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          products
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="#">Android</a>
+          <a class="dropdown-item" href="#">IOS</a>
+         
+</li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Category</a>
+                    <a class="nav-link" href="#">About us</a>
                 </li>
+               
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Products <i class="fas fa-chevron-down"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Blog</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Category <i class="fas fa-chevron-down"></i></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Coming Soon</a>
+                    <a class="nav-link" href="contactus.html">Contact us</a>
                 </li>
             </ul>
             <form action="#" class="font-size-14 font-rale">

@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
+  
     
-    <link rel="stylesheet" href="style.css">
+   
     <script>
 
 
@@ -56,6 +56,88 @@ function validation(){
 
     </script>
     <title>Contact us</title>
+
+
+
+
+    <style>
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body{
+  background-color: #58d0e6;
+}
+
+.wrapper{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 350px;
+  width: 100%;
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 5px;
+  box-shadow: 4px 4px 2px rgb(160, 236, 230);
+}
+
+.wrapper h2{
+  text-align: center;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #332902;
+}
+
+.wrapper .input_field{
+   margin-bottom: 10px;
+}
+
+.wrapper .input_field input[type="text"],
+.wrapper textarea{
+  width: 100%;
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+}
+   
+.wrapper textarea{
+  height: 80px;
+  resize: none;
+}
+
+.wrapper .btn input[type="submit"]{
+  border: 0;
+  margin-top: 15px;
+  padding: 10px;
+  width: 100%;
+  background: #34acac;
+  color: #332902;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-weight: bold;
+  border-radius: 25px;
+  cursor: pointer;
+
+}
+
+.wrapper #error_message{
+  margin-bottom: 20px;
+  padding: 0px;
+  background: #ce6294;
+  text-align: center;
+  font-size: 14px;
+  transition: all 0.5s ease;
+}
+
+
+    </style>
 </head>
 <body>
     <div class="wrapper">
