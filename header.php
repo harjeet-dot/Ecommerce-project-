@@ -66,6 +66,10 @@
                 <li class="nav-item">
                     <a class="nav-link" href="contact.html">Contact us</a>
                 </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="Privacy.html">Privacy policy</a>
+                </li>
             </ul>
             <form action="#" class="font-size-14 font-rale">
                 <a href="cart.php" class="py-2 rounded-pill color-primary-bg">
