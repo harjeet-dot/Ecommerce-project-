@@ -48,17 +48,11 @@
                     <a class="nav-link" href="#">On Sale</a>
                 </li>
                
+                <li class="nav-item">
+                    <a class="nav-link" href="Product.php">Products</a>
+                </li>
 
 
-                <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          products
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="product_android.php">Android</a>
-          <a class="dropdown-item" href="product_ios.php">IOS</a>
-         
-</li>
                 <li class="nav-item">
                     <a class="nav-link" href="Aboutus.html">About us</a>
                 </li>
