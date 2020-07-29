@@ -54,7 +54,7 @@
 
 
                 <li class="nav-item">
-                    <a class="nav-link" href="Aboutus.html">About us</a>
+                    <a class="nav-link" href="aboutus.html">About us</a>
                 </li>
                
                 <li class="nav-item">

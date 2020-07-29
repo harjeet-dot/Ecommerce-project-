@@ -25,7 +25,7 @@
                 <div class="d-flex flex-column flex-wrap">
                     <a href="#" class="font-rale font-size-14 text-white-50 pb-1">About Us</a>
                     <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Delivery Information</a>
-                    <a href="Privacy.html" class="font-rale font-size-14 text-white-50 pb-1">Privacy Policy</a>
+                    <a href="privacypolicy.html" class="font-rale font-size-14 text-white-50 pb-1">Privacy Policy</a>
                     <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Terms & Conditions</a>
                 </div>
             </div>
