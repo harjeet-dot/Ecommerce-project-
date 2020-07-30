@@ -6,8 +6,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-12">
-                <h4 class="font-rubik font-size-20">Mobile Shopee</h4>
-                <p class="font-size-14 font-rale text-white-50">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, deserunt.</p>
+                <h4 class="font-rubik font-size-20">HB Mobiles</h4>
+                <p class="font-size-14 font-rale text-white-50">Founded in 2016, HB Mobiles is 100% New Zealand owned and operated . HB Mobiles is leading mobile phone reseller run by a team of passionate technology ethusiasts. whose main aim to provides kiwies the best mobile phones.</p>
             </div>
             <div class="col-lg-4 col-12">
                 <h4 class="font-rubik font-size-20">Newslatter</h4>
@@ -42,7 +42,7 @@
     </div>
 </footer>
 <div class="copyright text-center bg-dark text-white py-2">
-    <p class="font-rale font-size-14">&copy; Copyrights 2020. Desing By <a href="#" class="color-second">Daily Tuition</a></p>
+    <p class="font-rale font-size-14">&copy; Copyrights 2020. Desing By <a href="#" class="color-second">Harry Bajwa</a></p>
 </div>
 <!-- !start #footer -->
 
